@@ -17,6 +17,11 @@ If that doesn't work for you, follow these steps:
 I'm also providing the crx file in case somebody needs it.
 
 ## Screenshots
+**Theme with Popsicle.**
+
 ![](screen1.png)
+
+**Theme with no Popsicle showing google search bar and most visited sites in new tab.**
+
 ![](screen2.png)
 
