@@ -2,6 +2,10 @@
 This theme was born out of boredom and an awesome wallpaper found on deviantart.com. Here's the [link](http://fav.me/d7wgxb8) for the wallpaper.
 
 ## Steps for installing this theme 
+Go to this [link](https://www.themebeta.com/chrome/theme/837293) and hit apply. 
+
+If that doesn't work for you, follow these steps:
+
 1. Clone this repo on your computer.
 2. Go to Chrome and type "chrome://extensions/" in your address bar.
 3. Press "Load unpacked extension" button and select the repo on your local machine
